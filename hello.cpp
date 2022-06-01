@@ -6,6 +6,10 @@ cout<<"Hello World"<<endl;
 cout<<"Hi World"<<endl;
 cout<<"Bye World!!"<<endl;
 cout<<"GO world"<<endl;
+cout<<"Hi World";
+cout<<"Bye World!!";
+cout<<"GO world";
+cout<<"Enter World";
 
 int num1,num2;
 cout<<"Enter the 1st number: ";
