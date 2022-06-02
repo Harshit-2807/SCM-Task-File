@@ -17,7 +17,8 @@ cin>>num1;
 cout<<"Enter the 2nd number: ";
 cin>>num2;
 
-cout<<"The sum of the 2 number is: "<<num1+num2<<endl;
+cout<<"The sum of the two numbers is: "<<num1+num2<<endl;
+cout<<"The Sub of the two numbers is: "<<num1 - num2<<endl;
 return 0;
 }
 
